@@ -2,14 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e4556812-54a8-430c-b929-12555df2ab62" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/ChIA_PET_Tool_V3_jar.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/libraries/ChIA_PET.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ChIA-PET_Tool_V3.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/program/LGL/src/META-INF/MANIFEST.MF" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -90,25 +83,41 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1584950757750</updated>
-      <workItem from="1584950770125" duration="1261000" />
+      <workItem from="1584950770125" duration="1595000" />
     </task>
+    <task id="LOCAL-00001" summary="Intellij information update">
+      <created>1584952228768</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1584952228768</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Intellij information update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Intellij information update" />
   </component>
   <component name="WindowStateProjectService">
     <state x="413" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog" timestamp="1584951712737">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="413" y="153" key="#com.intellij.ide.util.TreeClassChooserDialog/0.0.1366.728@0.0.1366.728" timestamp="1584951712737" />
-    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1584951963187">
+    <state x="295" y="0" key="CommitChangelistDialog2" timestamp="1584952225912">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584951963187" />
+    <state x="295" y="0" key="CommitChangelistDialog2/0.0.1366.728@0.0.1366.728" timestamp="1584952225912" />
     <state x="163" y="0" key="SettingsEditor" timestamp="1584952034874">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="163" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1584952034874" />
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2" timestamp="1584952242113">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="275" y="99" key="Vcs.Push.Dialog.v2/0.0.1366.728@0.0.1366.728" timestamp="1584952242113" />
   </component>
 </project>
